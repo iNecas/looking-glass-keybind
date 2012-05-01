@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.looking-glass-keybind.keybindings"
+          path="/org/gnome/shell/extensions/looking-glass-keybind/keybindings/">
+    <key type="as" name="launch-looking-glass">
+       <default>["F12"]</default>
+       <summary>Launch Looking Glass</summary><description></description>
+    </key>
+  </schema>
+</schemalist>
